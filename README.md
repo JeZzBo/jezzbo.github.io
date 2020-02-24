@@ -1,2 +1,0 @@
-# jezz
-Blogpost
